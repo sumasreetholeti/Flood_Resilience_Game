@@ -1,6 +1,8 @@
 # Flood_Resilience_Game
-Experience, explore, and learn about community flood resilience!
-Why?
-The question how to link the development and growth with disaster risk management is not easy. Often problems and solutions for flood-prone communities are focused only on the role of hard infrastructure.
-Other aspects, like social, natural, human and financial capital are frequently ignored, and the role of the cooperation sparked by bonds between the community members is underestimated. Also, long-term planning often gives way to immediate actions that lead to improving safety for short time, but fail in the long run.
-Understanding resilience is not easy! It requires a change in thinking.
+The Flood Resilience Game is an educational game that allows players to experience, explore, and learn about the flood risk and resilience of communities in river valleys.
+
+The game is designed to help participants – such as NGO staff working on flood-focused programs – to identify novel policies and strategies which improve flood resilience.
+
+The game is set in a community living in an area exposed to floods, occurring with different severity. Players take roles of members of different citizen groups (workers, farmers, entrepreneur, financial services agent), local government and water board officials.
+
+The direct interactions between players create a rich experience that can be discussed, analysed and lead to concrete conclusions and actions. This allows players to explore vulnerabilities and capacities leading to an advanced understanding of interdependencies and the potential for working together.
